@@ -16,4 +16,4 @@ Whitepaper is a software to admin changes in a business strategy using open sour
 
 ## KR
 
-[백서](./%EB%B0%B1%EC%84%9C.md)
+[백서](./whitepaper_ko-kr.md)
