@@ -12,7 +12,10 @@
 Whitepaper is a software to admin changes in a business strategy using open source repository with membership based on description of justice of its document.
 
 ---
-# Updates
+# Whitepaper
+
+## EN
+[whitepaper](./whitepaper_en.md)
 
 ## KR
 
